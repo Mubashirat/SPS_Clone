@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;600;700&display=swap');
+.style{
+    color: gray;
+    border:none;
+    outline: none;
+    margin-bottom: 45px;
+    font-size: 15px;
+    border-bottom: .2px solid rgba(128,128,128,0.24) ;
+    width: 100%;
+
+}
+button {
+    border: none;
+    width: 100%;
+    height: 49px;
+    margin-top: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.card{
+   margin-top: 10px;
+   padding-left: 80px;
+   padding-right: 80px;
+   margin-left: 50px; 
+   margin-right: 50px;
+}
+.style_1{
+background-color: #00d2b5;
+color: white;
+
+}
+.span-style{
+    border-bottom: .2px solid rgba(128,128,128,0.24) ;
+    color: gray
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+label.error{
+    color: red;
+}
